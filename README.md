@@ -22,8 +22,8 @@ Example of failed test with screenshot:
 Boilerplate reference: https://github.com/jpolley/WebdriverIO_v5_TypeScript/
 
 ## Issues noticed
-1. the progress bar is set to a wrong stage on page reload
-2. when a valid date from the first registration ("Erstzulassung") is deleted again the value is not re-set correctly (value="__._") so the placeholder text is not shown (same for all "date" fields)
+1. the progress bar is set to a wrong stage [wrong stage](https://github.com/t-null-pointer/fri_challenge/blob/master/src/assets/issue1.png) on page reload
+2. when a valid date from the first registration ("Erstzulassung") is deleted again the value is [not re-set correctly](https://github.com/t-null-pointer/fri_challenge/blob/master/src/assets/issue2.png) (value="__._") so the placeholder text is not shown (same for all "date" fields)
 
 Usability
 1. it would be nice if the back link ("Zurück") was also available at the top of the form to avoid long scrolling on e.g. /selectVehicle
