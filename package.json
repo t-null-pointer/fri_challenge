@@ -1,8 +1,8 @@
 {
-  "name": "webdriverio_v5_typescript",
+  "name": "fri_challenge",
   "version": "1.0.0",
-  "description": "Boilerplate project using version 5 WebdriverIO & TypeScript.",
-  "repository": "https://github.com/jpolley/WebdriverIO_v5_TypeScript",
+  "description": "QA Challenge",
+  "repository": "https://github.com/t-null-pointer/fri_challenge",
   "scripts": {
     "test": "wdio",
     "report": "allure generate ./allure-results --clean && allure open"

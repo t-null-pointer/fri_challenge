@@ -1,6 +1,8 @@
 # Friday Challenge
 
 ## Getting Started
+Preconditions: 
+node.js (version >= 8.11.0) and yarn are installed
 ```
 git clone https://github.com/t-null-pointer/fri_challenge.git
 cd fri_challenge

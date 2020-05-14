@@ -9,6 +9,7 @@ before(() => {
 // src: https://stackoverflow.com/questions/26107027/running-mocha-setup-before-each-suite-rather-than-before-each-test
 function makeSuite(name, test) {
     describe(name, () => {
+        // TODO for now test setup is arranged via UI
         before(() => {
             browser.url('https://hello.friday.de/quote/');
             expect(SalesFunnel.headline).to.eq('In 90 Sekunden zum Beitrag');
