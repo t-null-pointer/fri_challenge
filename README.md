@@ -2,8 +2,8 @@
 
 ## Getting Started
 ```
-git clone git@github.com:jpolley/WebdriverIO_v5_TypeScript.git
-cd WebdriverIO_v5_TypeScript
+git clone https://github.com/t-null-pointer/fri_challenge.git
+cd fri_challenge
 yarn install
 yarn test
 ```
@@ -13,10 +13,10 @@ yarn test
 yarn report
 ```
 Allure overview: 
-![allure](https://github.com/jpolley/WebdriverIO_v5_TypeScript/blob/master/src/assets/allure.png)
+![allure](https://github.com/t-null-pointer/fri_challenge/blob/master/src/assets/pass.png)
 
 Example of failed test with screenshot: 
-![screenshot](https://github.com/jpolley/WebdriverIO_v5_TypeScript/blob/master/src/assets/screenshot.png)
+![screenshot](https://github.com/t-null-pointer/fri_challenge/blob/master/src/assets/failWithScreenshot.png)
 
 ## Acknowledgements
 Boilerplate reference: https://github.com/jpolley/WebdriverIO_v5_TypeScript/
